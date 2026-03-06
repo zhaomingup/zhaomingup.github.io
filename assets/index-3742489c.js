@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{c as o,f as t}from"./index-60d779da.js";const c={},r={class:"absolute-lt z-1 wh-full overflow-hidden"};function s(n,_){return t(),o("div",r)}const l=e(c,[["render",s]]);export{l as default};

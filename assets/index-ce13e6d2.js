@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{c as _,f as t}from"./index-60d779da.js";const c={},s={class:"test"};function o(n,r){return t(),_("div",s,"舆情分析")}const d=e(c,[["render",o],["__scopeId","data-v-6ff02071"]]);export{d as default};

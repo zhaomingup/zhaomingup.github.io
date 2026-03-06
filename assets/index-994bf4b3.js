@@ -1,0 +1,1 @@
+import{M as r,N as e,P as o}from"./index-60d779da.js";const n=async s=>{const t=r(s);return await e.get(`${o.SENTIMENT}/dc/cookies/${t}/`)},u=async s=>await e.post(`${o.SENTIMENT}/dc/cookies/`,s),i=async(s,t)=>await e.put(`${o.SENTIMENT}/dc/cookies/${t}/`,s),l=async s=>await e.delete(`${o.SENTIMENT}/dc/cookies/${s}/`);export{u as a,i as b,l as c,n as f};

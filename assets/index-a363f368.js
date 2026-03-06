@@ -1,0 +1,1 @@
+import{N as t,P as s}from"./index-60d779da.js";const u=async e=>await t.post(`${s.SAAS}/menu/page`,e),r=async e=>await t.post(`${s.SAAS}/menu/add`,e),c=async e=>await t.put(`${s.SAAS}/menu/update`,e),o=async e=>await t.delete(`${s.SAAS}/menu/delete?id=${e}`);export{c as a,o as b,u as c,r as f};
